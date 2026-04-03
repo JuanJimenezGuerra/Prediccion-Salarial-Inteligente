@@ -1,0 +1,501 @@
+cargo,nivel,experiencia,ciudad,tipo_contrato,modalidad,sector,educacion,salario
+Gerente de TI,Líder,12,Cali,Indefinido,Remoto,Finanzas,Especialización,27380000.0
+Analista QA,Líder,10,Bucaramanga,Fijo,Híbrido,Manufactura,Profesional,12800000.0
+Diseñador UI/UX,Líder,12,Bogotá,Fijo,Híbrido,Educación,Maestría,27260000.0
+Gerente de TI,Semi-Senior,5,Barranquilla,Prestación de servicios,Híbrido,Manufactura,Especialización,6100000.0
+DevOps,Senior,8,Barranquilla,Indefinido,Presencial,Educación,Especialización,9620000.0
+Científico de Datos,Líder,8,Barranquilla,Fijo,Híbrido,Finanzas,Técnico,18400000.0
+Científico de Datos,Junior,1,Barranquilla,Prestación de servicios,Presencial,Salud,Técnico,1970000.0
+Arquitecto Cloud,Líder,9,Barranquilla,Fijo,Híbrido,Manufactura,Profesional,16250000.0
+Científico de Datos,Líder,13,Bucaramanga,Prestación de servicios,Híbrido,Finanzas,Maestría,30400000.0
+Diseñador UI/UX,Semi-Senior,4,Barranquilla,Indefinido,Híbrido,Educación,Maestría,6520000.0
+Analista QA,Semi-Senior,4,Bucaramanga,Fijo,Remoto,Salud,Maestría,6370000.0
+Gerente de TI,Junior,0,Bogotá,Prestación de servicios,Remoto,Tecnología,Maestría,5880000.0
+Diseñador UI/UX,Líder,14,Cali,Prestación de servicios,Remoto,Retail,Especialización,19950000.0
+Gerente de TI,Junior,1,Bogotá,Prestación de servicios,Presencial,Manufactura,Maestría,4260000.0
+Analista QA,Senior,8,Cali,Prestación de servicios,Remoto,Retail,Técnico,7410000.0
+DevOps,Senior,7,Bogotá,Prestación de servicios,Presencial,Finanzas,Profesional,15120000.0
+Desarrollador Frontend,Junior,2,Bogotá,Indefinido,Híbrido,Educación,Especialización,3810000.0
+Analista QA,Líder,12,Cali,Prestación de servicios,Híbrido,Salud,Profesional,23720000.0
+Científico de Datos,Junior,1,Bogotá,Indefinido,Híbrido,Salud,Maestría,4620000.0
+DevOps,Senior,6,Barranquilla,Indefinido,Presencial,Manufactura,Técnico,6240000.0
+Arquitecto Cloud,Junior,2,Bogotá,Indefinido,Remoto,Retail,Especialización,3870000.0
+DevOps,Junior,0,Cali,Fijo,Presencial,Retail,Profesional,1830000.0
+Diseñador UI/UX,Líder,8,Barranquilla,Indefinido,Híbrido,Tecnología,Profesional,14380000.0
+Arquitecto Cloud,Líder,8,Cali,Indefinido,Híbrido,Finanzas,Maestría,28200000.0
+DevOps,Senior,9,Bogotá,Indefinido,Presencial,Manufactura,Profesional,8640000.0
+DevOps,Líder,14,Barranquilla,Prestación de servicios,Presencial,Retail,Técnico,15080000.0
+Gerente de TI,Semi-Senior,5,Bucaramanga,Fijo,Híbrido,Manufactura,Especialización,6140000.0
+Arquitecto Cloud,Líder,10,Bucaramanga,Prestación de servicios,Presencial,Salud,Especialización,19130000.0
+Científico de Datos,Senior,7,Barranquilla,Prestación de servicios,Remoto,Tecnología,Maestría,20390000.0
+Arquitecto Cloud,Senior,8,Bogotá,Indefinido,Híbrido,Manufactura,Profesional,12330000.0
+Desarrollador Backend,Senior,8,Medellín,Indefinido,Remoto,Finanzas,Técnico,12400000.0
+Arquitecto Cloud,Junior,2,Cali,Prestación de servicios,Híbrido,Tecnología,Maestría,5490000.0
+Desarrollador Frontend,Senior,5,Barranquilla,Fijo,Híbrido,Retail,Maestría,12850000.0
+Analista QA,Semi-Senior,5,Medellín,Fijo,Híbrido,Retail,Maestría,7340000.0
+Analista QA,Junior,0,Barranquilla,Indefinido,Híbrido,Educación,Maestría,3340000.0
+Gerente de TI,Senior,5,Bogotá,Prestación de servicios,Presencial,Manufactura,Especialización,15680000.0
+DevOps,Semi-Senior,3,Bucaramanga,Prestación de servicios,Híbrido,Retail,Especialización,4890000.0
+Desarrollador Frontend,Senior,5,Bucaramanga,Indefinido,Presencial,Salud,Especialización,12050000.0
+Diseñador UI/UX,Junior,0,Barranquilla,Fijo,Remoto,Manufactura,Técnico,2160000.0
+Analista QA,Líder,12,Bogotá,Fijo,Remoto,Retail,Maestría,31890000.0
+Arquitecto Cloud,Líder,14,Bucaramanga,Indefinido,Presencial,Tecnología,Maestría,20490000.0
+Científico de Datos,Senior,6,Cali,Fijo,Híbrido,Manufactura,Especialización,12000000.0
+Científico de Datos,Senior,7,Medellín,Fijo,Híbrido,Tecnología,Maestría,23540000.0
+Diseñador UI/UX,Senior,9,Medellín,Prestación de servicios,Híbrido,Retail,Profesional,12150000.0
+Arquitecto Cloud,Líder,12,Barranquilla,Fijo,Presencial,Tecnología,Maestría,31970000.0
+Diseñador UI/UX,Semi-Senior,5,Barranquilla,Prestación de servicios,Presencial,Salud,Profesional,5830000.0
+Científico de Datos,Líder,14,Cali,Indefinido,Híbrido,Manufactura,Técnico,15880000.0
+Arquitecto Cloud,Líder,9,Cali,Indefinido,Remoto,Educación,Maestría,22360000.0
+Desarrollador Frontend,Líder,12,Barranquilla,Fijo,Remoto,Salud,Profesional,23340000.0
+Desarrollador Frontend,Líder,12,Medellín,Fijo,Híbrido,Retail,Técnico,15780000.0
+Diseñador UI/UX,Senior,7,Barranquilla,Fijo,Presencial,Finanzas,Técnico,11190000.0
+Arquitecto Cloud,Semi-Senior,3,Bogotá,Prestación de servicios,Híbrido,Manufactura,Profesional,5510000.0
+Diseñador UI/UX,Junior,0,Bucaramanga,Indefinido,Remoto,Educación,Profesional,1650000.0
+DevOps,Junior,0,Barranquilla,Indefinido,Presencial,Tecnología,Profesional,2890000.0
+DevOps,Semi-Senior,5,Bucaramanga,Fijo,Híbrido,Educación,Especialización,4670000.0
+Analista QA,Senior,6,Medellín,Fijo,Remoto,Salud,Profesional,8930000.0
+Desarrollador Frontend,Senior,6,Medellín,Prestación de servicios,Híbrido,Tecnología,Maestría,17800000.0
+Diseñador UI/UX,Líder,14,Medellín,Indefinido,Presencial,Salud,Maestría,32390000.0
+Desarrollador Frontend,Semi-Senior,4,Barranquilla,Indefinido,Remoto,Educación,Especialización,5880000.0
+Arquitecto Cloud,Junior,1,Cali,Indefinido,Remoto,Salud,Especialización,4050000.0
+DevOps,Semi-Senior,2,Cali,Fijo,Presencial,Tecnología,Profesional,6340000.0
+Científico de Datos,Semi-Senior,3,Cali,Indefinido,Presencial,Salud,Profesional,4750000.0
+Analista QA,Semi-Senior,2,Cali,Indefinido,Remoto,Educación,Técnico,3280000.0
+Arquitecto Cloud,Líder,10,Bogotá,Prestación de servicios,Híbrido,Tecnología,Especialización,28880000.0
+Diseñador UI/UX,Líder,14,Bucaramanga,Indefinido,Presencial,Educación,Especialización,15570000.0
+Arquitecto Cloud,Junior,1,Barranquilla,Indefinido,Híbrido,Educación,Especialización,2740000.0
+Desarrollador Backend,Junior,0,Bogotá,Prestación de servicios,Remoto,Salud,Profesional,3190000.0
+Científico de Datos,Senior,9,Bucaramanga,Prestación de servicios,Remoto,Salud,Especialización,15910000.0
+Analista QA,Líder,12,Bogotá,Prestación de servicios,Remoto,Educación,Profesional,23120000.0
+Gerente de TI,Líder,8,Medellín,Fijo,Remoto,Educación,Profesional,16340000.0
+Gerente de TI,Semi-Senior,2,Medellín,Indefinido,Híbrido,Retail,Profesional,4840000.0
+DevOps,Senior,9,Bogotá,Fijo,Remoto,Tecnología,Técnico,12030000.0
+Desarrollador Frontend,Líder,13,Barranquilla,Prestación de servicios,Presencial,Educación,Maestría,16070000.0
+Científico de Datos,Senior,7,Bucaramanga,Indefinido,Híbrido,Salud,Profesional,10930000.0
+Científico de Datos,Líder,11,Bucaramanga,Prestación de servicios,Remoto,Tecnología,Especialización,25440000.0
+Gerente de TI,Líder,8,Bogotá,Indefinido,Híbrido,Educación,Profesional,16340000.0
+Científico de Datos,Líder,12,Bucaramanga,Indefinido,Presencial,Educación,Maestría,19150000.0
+Analista QA,Líder,10,Cali,Indefinido,Híbrido,Tecnología,Técnico,17360000.0
+DevOps,Senior,5,Bucaramanga,Fijo,Híbrido,Retail,Maestría,11660000.0
+Científico de Datos,Líder,13,Barranquilla,Indefinido,Híbrido,Salud,Maestría,27990000.0
+Científico de Datos,Líder,9,Barranquilla,Fijo,Remoto,Tecnología,Maestría,23300000.0
+Desarrollador Frontend,Junior,0,Bucaramanga,Fijo,Presencial,Educación,Profesional,1830000.0
+Científico de Datos,Senior,9,Bogotá,Fijo,Híbrido,Manufactura,Profesional,11040000.0
+Diseñador UI/UX,Junior,1,Bogotá,Fijo,Presencial,Tecnología,Especialización,4670000.0
+Analista QA,Semi-Senior,4,Bogotá,Fijo,Presencial,Retail,Técnico,4400000.0
+Desarrollador Backend,Senior,5,Bucaramanga,Prestación de servicios,Híbrido,Salud,Técnico,8250000.0
+Analista QA,Senior,9,Cali,Indefinido,Presencial,Educación,Técnico,7120000.0
+DevOps,Junior,2,Bucaramanga,Indefinido,Híbrido,Tecnología,Técnico,1930000.0
+Diseñador UI/UX,Líder,9,Barranquilla,Prestación de servicios,Presencial,Finanzas,Profesional,20910000.0
+Desarrollador Backend,Semi-Senior,5,Bogotá,Fijo,Remoto,Manufactura,Profesional,6830000.0
+Desarrollador Backend,Junior,0,Bucaramanga,Indefinido,Híbrido,Finanzas,Especialización,3020000.0
+Desarrollador Frontend,Semi-Senior,3,Medellín,Fijo,Híbrido,Manufactura,Especialización,6620000.0
+Desarrollador Backend,Senior,6,Barranquilla,Indefinido,Híbrido,Tecnología,Maestría,16990000.0
+Científico de Datos,Senior,5,Bucaramanga,Indefinido,Híbrido,Tecnología,Profesional,10840000.0
+Arquitecto Cloud,Líder,11,Bucaramanga,Fijo,Híbrido,Educación,Profesional,14410000.0
+Diseñador UI/UX,Senior,7,Bogotá,Prestación de servicios,Presencial,Retail,Profesional,8690000.0
+Diseñador UI/UX,Líder,11,Barranquilla,Indefinido,Presencial,Retail,Especialización,15630000.0
+Científico de Datos,Senior,7,Bucaramanga,Indefinido,Híbrido,Salud,Profesional,9750000.0
+Analista QA,Semi-Senior,2,Bogotá,Indefinido,Remoto,Salud,Profesional,5420000.0
+Científico de Datos,Junior,2,Bogotá,Fijo,Presencial,Manufactura,Especialización,3290000.0
+Gerente de TI,Líder,12,Bogotá,Fijo,Remoto,Tecnología,Especialización,32100000.0
+Gerente de TI,Líder,13,Medellín,Prestación de servicios,Híbrido,Finanzas,Técnico,18450000.0
+Científico de Datos,Semi-Senior,4,Cali,Prestación de servicios,Presencial,Manufactura,Especialización,5490000.0
+Científico de Datos,Semi-Senior,4,Cali,Prestación de servicios,Remoto,Educación,Maestría,7100000.0
+Científico de Datos,Senior,5,Bogotá,Prestación de servicios,Híbrido,Finanzas,Profesional,16360000.0
+Desarrollador Backend,Junior,0,Medellín,Prestación de servicios,Presencial,Manufactura,Profesional,2880000.0
+Gerente de TI,Líder,8,Barranquilla,Prestación de servicios,Híbrido,Tecnología,Técnico,18170000.0
+Científico de Datos,Senior,7,Bucaramanga,Fijo,Remoto,Tecnología,Técnico,8000000.0
+Analista QA,Semi-Senior,2,Barranquilla,Fijo,Presencial,Manufactura,Profesional,4830000.0
+Gerente de TI,Semi-Senior,3,Bogotá,Fijo,Híbrido,Retail,Profesional,5520000.0
+Arquitecto Cloud,Semi-Senior,4,Cali,Fijo,Presencial,Educación,Maestría,5700000.0
+Desarrollador Frontend,Junior,2,Bogotá,Fijo,Híbrido,Manufactura,Técnico,2880000.0
+DevOps,Senior,8,Bucaramanga,Prestación de servicios,Presencial,Tecnología,Profesional,9570000.0
+Gerente de TI,Semi-Senior,5,Medellín,Indefinido,Híbrido,Salud,Técnico,4930000.0
+Gerente de TI,Junior,0,Bogotá,Indefinido,Presencial,Manufactura,Especialización,3450000.0
+Analista QA,Semi-Senior,5,Barranquilla,Fijo,Híbrido,Educación,Maestría,6740000.0
+Desarrollador Backend,Junior,1,Barranquilla,Prestación de servicios,Presencial,Tecnología,Maestría,4680000.0
+Analista QA,Semi-Senior,5,Cali,Indefinido,Remoto,Educación,Especialización,6420000.0
+Desarrollador Backend,Semi-Senior,3,Barranquilla,Indefinido,Remoto,Finanzas,Técnico,4690000.0
+Diseñador UI/UX,Semi-Senior,5,Cali,Indefinido,Híbrido,Tecnología,Especialización,10270000.0
+Gerente de TI,Senior,5,Bogotá,Indefinido,Remoto,Finanzas,Profesional,10340000.0
+Desarrollador Backend,Senior,7,Medellín,Prestación de servicios,Presencial,Educación,Técnico,8940000.0
+Desarrollador Frontend,Semi-Senior,4,Cali,Indefinido,Híbrido,Tecnología,Técnico,6010000.0
+Arquitecto Cloud,Semi-Senior,5,Medellín,Fijo,Remoto,Retail,Profesional,6090000.0
+Arquitecto Cloud,Semi-Senior,3,Bucaramanga,Prestación de servicios,Presencial,Salud,Técnico,3480000.0
+Analista QA,Líder,12,Bucaramanga,Prestación de servicios,Remoto,Finanzas,Especialización,20950000.0
+Gerente de TI,Senior,7,Barranquilla,Fijo,Presencial,Retail,Técnico,6010000.0
+Gerente de TI,Senior,6,Cali,Fijo,Remoto,Manufactura,Profesional,9550000.0
+Arquitecto Cloud,Junior,2,Barranquilla,Prestación de servicios,Remoto,Educación,Maestría,3970000.0
+Gerente de TI,Semi-Senior,2,Cali,Indefinido,Híbrido,Tecnología,Profesional,6500000.0
+Desarrollador Backend,Senior,5,Bucaramanga,Indefinido,Híbrido,Manufactura,Maestría,12430000.0
+Diseñador UI/UX,Senior,9,Bogotá,Indefinido,Remoto,Finanzas,Maestría,27420000.0
+Arquitecto Cloud,Junior,1,Bogotá,Prestación de servicios,Presencial,Salud,Técnico,2090000.0
+Desarrollador Backend,Junior,2,Cali,Prestación de servicios,Presencial,Manufactura,Maestría,2570000.0
+Arquitecto Cloud,Senior,8,Bucaramanga,Indefinido,Remoto,Educación,Especialización,9060000.0
+Científico de Datos,Junior,0,Bogotá,Indefinido,Remoto,Salud,Profesional,2980000.0
+DevOps,Líder,14,Bucaramanga,Indefinido,Presencial,Tecnología,Maestría,28430000.0
+Desarrollador Backend,Líder,10,Bucaramanga,Indefinido,Remoto,Educación,Profesional,12900000.0
+Diseñador UI/UX,Líder,10,Medellín,Indefinido,Híbrido,Retail,Especialización,26880000.0
+Arquitecto Cloud,Semi-Senior,3,Cali,Prestación de servicios,Remoto,Educación,Especialización,6980000.0
+Gerente de TI,Senior,6,Medellín,Prestación de servicios,Híbrido,Finanzas,Maestría,22250000.0
+Desarrollador Backend,Líder,14,Cali,Prestación de servicios,Remoto,Manufactura,Técnico,12080000.0
+Gerente de TI,Junior,2,Cali,Indefinido,Presencial,Finanzas,Especialización,4200000.0
+Diseñador UI/UX,Semi-Senior,4,Barranquilla,Indefinido,Híbrido,Educación,Profesional,3780000.0
+Gerente de TI,Senior,6,Medellín,Prestación de servicios,Remoto,Educación,Especialización,14200000.0
+Arquitecto Cloud,Senior,9,Barranquilla,Prestación de servicios,Híbrido,Finanzas,Especialización,17200000.0
+Gerente de TI,Senior,8,Barranquilla,Indefinido,Remoto,Manufactura,Maestría,11860000.0
+Desarrollador Frontend,Senior,8,Medellín,Fijo,Remoto,Finanzas,Profesional,17360000.0
+Diseñador UI/UX,Senior,5,Medellín,Prestación de servicios,Remoto,Manufactura,Técnico,11560000.0
+Gerente de TI,Junior,1,Cali,Fijo,Híbrido,Finanzas,Técnico,2790000.0
+Analista QA,Semi-Senior,4,Bucaramanga,Prestación de servicios,Híbrido,Finanzas,Maestría,8180000.0
+DevOps,Semi-Senior,2,Bucaramanga,Indefinido,Híbrido,Finanzas,Maestría,6570000.0
+Gerente de TI,Junior,1,Bucaramanga,Prestación de servicios,Remoto,Manufactura,Especialización,3490000.0
+Arquitecto Cloud,Junior,2,Medellín,Indefinido,Remoto,Finanzas,Técnico,3650000.0
+Desarrollador Frontend,Semi-Senior,3,Medellín,Fijo,Presencial,Tecnología,Especialización,8280000.0
+Analista QA,Junior,2,Cali,Indefinido,Presencial,Retail,Profesional,2260000.0
+Científico de Datos,Senior,9,Bogotá,Fijo,Presencial,Salud,Especialización,15040000.0
+DevOps,Senior,9,Cali,Fijo,Remoto,Finanzas,Profesional,13770000.0
+Analista QA,Junior,0,Bogotá,Indefinido,Remoto,Educación,Especialización,2960000.0
+Desarrollador Backend,Senior,6,Bucaramanga,Prestación de servicios,Híbrido,Manufactura,Profesional,10850000.0
+Desarrollador Frontend,Senior,9,Barranquilla,Prestación de servicios,Presencial,Tecnología,Técnico,10990000.0
+Arquitecto Cloud,Senior,8,Cali,Prestación de servicios,Remoto,Tecnología,Especialización,19200000.0
+Analista QA,Semi-Senior,5,Bogotá,Fijo,Remoto,Salud,Especialización,8520000.0
+Científico de Datos,Senior,6,Bogotá,Prestación de servicios,Híbrido,Educación,Profesional,10270000.0
+Científico de Datos,Senior,9,Bogotá,Prestación de servicios,Híbrido,Retail,Especialización,15810000.0
+Desarrollador Frontend,Senior,7,Medellín,Prestación de servicios,Híbrido,Tecnología,Profesional,15210000.0
+Gerente de TI,Líder,10,Barranquilla,Indefinido,Híbrido,Retail,Técnico,8400000.0
+Gerente de TI,Líder,14,Bogotá,Indefinido,Híbrido,Tecnología,Técnico,26580000.0
+Científico de Datos,Junior,0,Medellín,Fijo,Híbrido,Retail,Profesional,2350000.0
+Diseñador UI/UX,Senior,7,Barranquilla,Indefinido,Híbrido,Tecnología,Técnico,8630000.0
+DevOps,Junior,0,Barranquilla,Prestación de servicios,Remoto,Finanzas,Profesional,2370000.0
+Analista QA,Junior,1,Bogotá,Prestación de servicios,Remoto,Manufactura,Maestría,3840000.0
+DevOps,Semi-Senior,5,Medellín,Fijo,Remoto,Tecnología,Maestría,8840000.0
+Diseñador UI/UX,Líder,11,Cali,Fijo,Remoto,Educación,Técnico,11060000.0
+Desarrollador Backend,Líder,13,Cali,Fijo,Remoto,Finanzas,Técnico,18740000.0
+Diseñador UI/UX,Líder,12,Bucaramanga,Prestación de servicios,Remoto,Manufactura,Profesional,16050000.0
+Desarrollador Backend,Semi-Senior,2,Medellín,Indefinido,Remoto,Finanzas,Especialización,8770000.0
+DevOps,Senior,5,Bogotá,Prestación de servicios,Híbrido,Tecnología,Técnico,12510000.0
+Desarrollador Backend,Semi-Senior,4,Medellín,Fijo,Híbrido,Tecnología,Maestría,10510000.0
+Analista QA,Líder,12,Bogotá,Indefinido,Híbrido,Educación,Profesional,20180000.0
+Desarrollador Backend,Junior,2,Cali,Indefinido,Remoto,Retail,Técnico,2260000.0
+Desarrollador Backend,Senior,6,Barranquilla,Prestación de servicios,Híbrido,Retail,Técnico,6950000.0
+Diseñador UI/UX,Semi-Senior,3,Bucaramanga,Indefinido,Remoto,Educación,Técnico,3590000.0
+Desarrollador Backend,Líder,9,Cali,Indefinido,Remoto,Tecnología,Profesional,21260000.0
+Diseñador UI/UX,Senior,8,Bogotá,Prestación de servicios,Presencial,Tecnología,Técnico,13100000.0
+Científico de Datos,Líder,14,Cali,Fijo,Presencial,Educación,Especialización,21070000.0
+Analista QA,Semi-Senior,2,Cali,Prestación de servicios,Presencial,Finanzas,Profesional,5150000.0
+Gerente de TI,Senior,6,Barranquilla,Fijo,Híbrido,Educación,Técnico,7270000.0
+Desarrollador Frontend,Senior,6,Bucaramanga,Fijo,Presencial,Tecnología,Técnico,6990000.0
+Desarrollador Frontend,Líder,12,Cali,Fijo,Presencial,Manufactura,Especialización,23040000.0
+Científico de Datos,Junior,1,Barranquilla,Prestación de servicios,Híbrido,Educación,Técnico,1650000.0
+Desarrollador Frontend,Semi-Senior,5,Cali,Indefinido,Híbrido,Tecnología,Profesional,7080000.0
+DevOps,Junior,1,Medellín,Prestación de servicios,Híbrido,Finanzas,Profesional,3160000.0
+Analista QA,Líder,14,Bucaramanga,Prestación de servicios,Remoto,Manufactura,Especialización,21970000.0
+Gerente de TI,Líder,10,Cali,Fijo,Presencial,Finanzas,Profesional,15740000.0
+Gerente de TI,Senior,9,Bucaramanga,Prestación de servicios,Híbrido,Manufactura,Maestría,10300000.0
+DevOps,Senior,7,Cali,Indefinido,Híbrido,Salud,Maestría,17350000.0
+Diseñador UI/UX,Junior,2,Barranquilla,Fijo,Presencial,Tecnología,Técnico,2500000.0
+Desarrollador Backend,Senior,5,Medellín,Fijo,Presencial,Finanzas,Técnico,10360000.0
+Diseñador UI/UX,Líder,9,Barranquilla,Prestación de servicios,Híbrido,Tecnología,Técnico,15490000.0
+Analista QA,Junior,2,Cali,Fijo,Híbrido,Salud,Especialización,3140000.0
+Analista QA,Líder,11,Medellín,Prestación de servicios,Híbrido,Tecnología,Profesional,24350000.0
+DevOps,Senior,5,Barranquilla,Indefinido,Híbrido,Tecnología,Maestría,17240000.0
+Analista QA,Semi-Senior,5,Cali,Indefinido,Remoto,Educación,Profesional,4450000.0
+DevOps,Líder,9,Cali,Indefinido,Remoto,Tecnología,Maestría,28070000.0
+Arquitecto Cloud,Líder,8,Barranquilla,Indefinido,Híbrido,Finanzas,Maestría,26790000.0
+Arquitecto Cloud,Semi-Senior,2,Bogotá,Indefinido,Remoto,Manufactura,Técnico,4770000.0
+Gerente de TI,Semi-Senior,3,Medellín,Fijo,Híbrido,Finanzas,Especialización,9280000.0
+Científico de Datos,Semi-Senior,4,Barranquilla,Indefinido,Presencial,Educación,Especialización,5200000.0
+Arquitecto Cloud,Senior,5,Medellín,Fijo,Híbrido,Salud,Profesional,12180000.0
+Gerente de TI,Senior,7,Barranquilla,Fijo,Híbrido,Manufactura,Profesional,9080000.0
+Desarrollador Frontend,Semi-Senior,3,Cali,Fijo,Híbrido,Salud,Especialización,6580000.0
+Desarrollador Frontend,Junior,0,Bucaramanga,Prestación de servicios,Híbrido,Retail,Especialización,2910000.0
+Analista QA,Senior,9,Cali,Fijo,Híbrido,Finanzas,Especialización,15800000.0
+DevOps,Junior,0,Cali,Prestación de servicios,Híbrido,Retail,Especialización,2690000.0
+Gerente de TI,Junior,2,Barranquilla,Indefinido,Híbrido,Educación,Especialización,2290000.0
+Científico de Datos,Junior,0,Barranquilla,Fijo,Híbrido,Tecnología,Especialización,2990000.0
+Analista QA,Semi-Senior,5,Barranquilla,Fijo,Presencial,Finanzas,Maestría,10850000.0
+DevOps,Senior,6,Cali,Prestación de servicios,Híbrido,Manufactura,Técnico,8800000.0
+Diseñador UI/UX,Junior,2,Bogotá,Prestación de servicios,Híbrido,Salud,Maestría,4290000.0
+DevOps,Senior,6,Barranquilla,Fijo,Híbrido,Finanzas,Especialización,12870000.0
+Arquitecto Cloud,Semi-Senior,3,Barranquilla,Indefinido,Presencial,Manufactura,Maestría,6740000.0
+Gerente de TI,Junior,1,Bogotá,Prestación de servicios,Remoto,Tecnología,Maestría,6610000.0
+Gerente de TI,Junior,0,Cali,Fijo,Presencial,Manufactura,Profesional,2030000.0
+Diseñador UI/UX,Semi-Senior,2,Medellín,Fijo,Remoto,Tecnología,Técnico,6200000.0
+Arquitecto Cloud,Junior,1,Barranquilla,Indefinido,Presencial,Educación,Especialización,2110000.0
+Analista QA,Líder,12,Bogotá,Indefinido,Presencial,Manufactura,Maestría,28340000.0
+DevOps,Semi-Senior,2,Bucaramanga,Fijo,Remoto,Tecnología,Especialización,6790000.0
+Desarrollador Backend,Semi-Senior,2,Bucaramanga,Prestación de servicios,Remoto,Tecnología,Técnico,5430000.0
+Desarrollador Frontend,Junior,1,Cali,Prestación de servicios,Híbrido,Finanzas,Técnico,2820000.0
+Científico de Datos,Junior,0,Cali,Fijo,Presencial,Salud,Profesional,2830000.0
+Científico de Datos,Líder,14,Medellín,Indefinido,Remoto,Educación,Maestría,24170000.0
+DevOps,Junior,2,Medellín,Indefinido,Presencial,Finanzas,Especialización,4180000.0
+Arquitecto Cloud,Semi-Senior,5,Bogotá,Prestación de servicios,Remoto,Manufactura,Maestría,12530000.0
+Arquitecto Cloud,Junior,2,Bucaramanga,Indefinido,Remoto,Finanzas,Profesional,3240000.0
+Arquitecto Cloud,Junior,0,Bogotá,Prestación de servicios,Híbrido,Educación,Profesional,2470000.0
+DevOps,Líder,13,Cali,Fijo,Híbrido,Finanzas,Técnico,17450000.0
+Desarrollador Backend,Junior,1,Bogotá,Indefinido,Presencial,Tecnología,Maestría,6380000.0
+Científico de Datos,Senior,9,Cali,Indefinido,Remoto,Tecnología,Técnico,8730000.0
+DevOps,Semi-Senior,4,Cali,Fijo,Híbrido,Finanzas,Profesional,7530000.0
+DevOps,Junior,2,Bucaramanga,Fijo,Híbrido,Manufactura,Maestría,2890000.0
+Analista QA,Senior,8,Barranquilla,Prestación de servicios,Presencial,Manufactura,Profesional,7690000.0
+Científico de Datos,Líder,10,Cali,Indefinido,Remoto,Retail,Especialización,20220000.0
+Desarrollador Backend,Senior,8,Bucaramanga,Indefinido,Híbrido,Retail,Profesional,8560000.0
+DevOps,Junior,0,Barranquilla,Fijo,Presencial,Educación,Especialización,3150000.0
+Científico de Datos,Líder,13,Medellín,Fijo,Remoto,Educación,Maestría,30070000.0
+Científico de Datos,Junior,1,Cali,Prestación de servicios,Presencial,Salud,Profesional,2430000.0
+Gerente de TI,Líder,8,Medellín,Indefinido,Híbrido,Salud,Maestría,28950000.0
+Desarrollador Frontend,Semi-Senior,4,Bogotá,Indefinido,Híbrido,Retail,Técnico,5360000.0
+DevOps,Líder,8,Medellín,Indefinido,Presencial,Finanzas,Maestría,30870000.0
+Científico de Datos,Junior,0,Medellín,Indefinido,Híbrido,Retail,Técnico,2330000.0
+Desarrollador Frontend,Líder,14,Medellín,Indefinido,Híbrido,Retail,Maestría,24780000.0
+Científico de Datos,Junior,2,Medellín,Indefinido,Presencial,Tecnología,Especialización,4320000.0
+Analista QA,Junior,1,Bucaramanga,Prestación de servicios,Presencial,Salud,Especialización,3140000.0
+Diseñador UI/UX,Senior,6,Bogotá,Fijo,Remoto,Educación,Técnico,9170000.0
+Desarrollador Backend,Senior,9,Medellín,Prestación de servicios,Híbrido,Manufactura,Técnico,9930000.0
+Gerente de TI,Junior,0,Cali,Prestación de servicios,Híbrido,Retail,Maestría,3630000.0
+Gerente de TI,Junior,1,Barranquilla,Indefinido,Remoto,Salud,Especialización,4060000.0
+Arquitecto Cloud,Líder,8,Cali,Fijo,Remoto,Salud,Técnico,13170000.0
+Analista QA,Líder,10,Bucaramanga,Fijo,Híbrido,Retail,Profesional,13080000.0
+Desarrollador Frontend,Junior,1,Cali,Fijo,Híbrido,Finanzas,Especialización,3170000.0
+Desarrollador Backend,Semi-Senior,4,Barranquilla,Fijo,Híbrido,Salud,Técnico,3650000.0
+Analista QA,Junior,2,Bogotá,Prestación de servicios,Híbrido,Manufactura,Profesional,3830000.0
+Arquitecto Cloud,Líder,11,Barranquilla,Prestación de servicios,Híbrido,Educación,Especialización,16990000.0
+Desarrollador Frontend,Senior,9,Barranquilla,Indefinido,Remoto,Manufactura,Técnico,8790000.0
+Diseñador UI/UX,Senior,5,Bucaramanga,Fijo,Híbrido,Educación,Profesional,6720000.0
+Desarrollador Frontend,Junior,2,Medellín,Indefinido,Híbrido,Tecnología,Técnico,2600000.0
+Arquitecto Cloud,Senior,7,Barranquilla,Fijo,Presencial,Finanzas,Maestría,15160000.0
+Científico de Datos,Senior,7,Cali,Prestación de servicios,Híbrido,Salud,Técnico,8970000.0
+Arquitecto Cloud,Semi-Senior,3,Medellín,Indefinido,Presencial,Manufactura,Maestría,5550000.0
+Científico de Datos,Semi-Senior,3,Cali,Prestación de servicios,Híbrido,Tecnología,Especialización,6690000.0
+Científico de Datos,Senior,6,Barranquilla,Fijo,Híbrido,Tecnología,Profesional,11200000.0
+Arquitecto Cloud,Junior,1,Bogotá,Prestación de servicios,Híbrido,Tecnología,Profesional,3960000.0
+DevOps,Junior,0,Bucaramanga,Fijo,Remoto,Finanzas,Maestría,3950000.0
+Arquitecto Cloud,Senior,8,Bucaramanga,Indefinido,Presencial,Manufactura,Maestría,11480000.0
+DevOps,Líder,12,Cali,Fijo,Híbrido,Salud,Especialización,22860000.0
+Desarrollador Backend,Senior,7,Bucaramanga,Prestación de servicios,Híbrido,Finanzas,Técnico,8860000.0
+Arquitecto Cloud,Senior,7,Bogotá,Prestación de servicios,Remoto,Tecnología,Maestría,22760000.0
+DevOps,Semi-Senior,4,Barranquilla,Indefinido,Presencial,Tecnología,Técnico,3990000.0
+Desarrollador Frontend,Líder,11,Medellín,Prestación de servicios,Remoto,Salud,Especialización,28810000.0
+DevOps,Líder,12,Cali,Prestación de servicios,Presencial,Salud,Profesional,18870000.0
+DevOps,Junior,1,Medellín,Fijo,Presencial,Educación,Profesional,2540000.0
+DevOps,Senior,9,Medellín,Prestación de servicios,Híbrido,Educación,Técnico,9470000.0
+Analista QA,Junior,0,Medellín,Indefinido,Remoto,Salud,Técnico,2360000.0
+Desarrollador Backend,Junior,2,Bucaramanga,Prestación de servicios,Remoto,Finanzas,Profesional,2730000.0
+Desarrollador Frontend,Semi-Senior,5,Cali,Indefinido,Remoto,Salud,Técnico,4420000.0
+DevOps,Semi-Senior,2,Medellín,Indefinido,Remoto,Tecnología,Maestría,9530000.0
+Arquitecto Cloud,Semi-Senior,5,Bucaramanga,Indefinido,Híbrido,Finanzas,Profesional,6200000.0
+Diseñador UI/UX,Líder,12,Barranquilla,Prestación de servicios,Presencial,Finanzas,Maestría,29730000.0
+Gerente de TI,Junior,2,Bucaramanga,Prestación de servicios,Remoto,Salud,Técnico,2320000.0
+Gerente de TI,Junior,0,Bogotá,Prestación de servicios,Presencial,Tecnología,Técnico,2880000.0
+Arquitecto Cloud,Junior,0,Medellín,Prestación de servicios,Híbrido,Salud,Especialización,3630000.0
+Desarrollador Frontend,Senior,7,Cali,Prestación de servicios,Presencial,Finanzas,Técnico,11130000.0
+Diseñador UI/UX,Líder,9,Barranquilla,Indefinido,Presencial,Tecnología,Técnico,15620000.0
+Científico de Datos,Senior,6,Cali,Indefinido,Híbrido,Salud,Profesional,11590000.0
+Científico de Datos,Junior,2,Medellín,Fijo,Remoto,Educación,Maestría,3960000.0
+Gerente de TI,Líder,11,Medellín,Prestación de servicios,Híbrido,Tecnología,Maestría,31660000.0
+Diseñador UI/UX,Senior,8,Medellín,Indefinido,Híbrido,Manufactura,Maestría,17770000.0
+DevOps,Líder,12,Barranquilla,Prestación de servicios,Híbrido,Tecnología,Maestría,34230000.0
+Desarrollador Frontend,Junior,2,Medellín,Indefinido,Remoto,Manufactura,Técnico,2470000.0
+DevOps,Líder,13,Barranquilla,Prestación de servicios,Híbrido,Manufactura,Especialización,22490000.0
+Analista QA,Semi-Senior,3,Bucaramanga,Indefinido,Presencial,Salud,Especialización,4280000.0
+Científico de Datos,Senior,7,Barranquilla,Indefinido,Híbrido,Retail,Técnico,7570000.0
+Gerente de TI,Semi-Senior,4,Bucaramanga,Fijo,Presencial,Salud,Especialización,7320000.0
+Arquitecto Cloud,Líder,12,Medellín,Fijo,Remoto,Salud,Técnico,17030000.0
+Desarrollador Backend,Líder,9,Medellín,Prestación de servicios,Remoto,Finanzas,Técnico,19940000.0
+Diseñador UI/UX,Semi-Senior,4,Cali,Prestación de servicios,Híbrido,Tecnología,Maestría,10020000.0
+DevOps,Semi-Senior,3,Medellín,Fijo,Remoto,Manufactura,Profesional,6790000.0
+Arquitecto Cloud,Semi-Senior,2,Bogotá,Prestación de servicios,Presencial,Manufactura,Maestría,7200000.0
+Gerente de TI,Junior,1,Cali,Fijo,Remoto,Manufactura,Técnico,2270000.0
+DevOps,Líder,14,Bucaramanga,Fijo,Híbrido,Manufactura,Maestría,22870000.0
+Arquitecto Cloud,Senior,8,Bucaramanga,Fijo,Presencial,Educación,Maestría,9510000.0
+Científico de Datos,Senior,8,Barranquilla,Fijo,Híbrido,Manufactura,Profesional,9690000.0
+Desarrollador Backend,Junior,2,Cali,Fijo,Remoto,Salud,Profesional,2990000.0
+Científico de Datos,Semi-Senior,2,Barranquilla,Prestación de servicios,Remoto,Salud,Profesional,4640000.0
+Científico de Datos,Senior,8,Bogotá,Prestación de servicios,Presencial,Retail,Técnico,7010000.0
+Desarrollador Frontend,Semi-Senior,2,Bogotá,Indefinido,Híbrido,Salud,Maestría,8710000.0
+DevOps,Senior,8,Cali,Prestación de servicios,Remoto,Finanzas,Maestría,20380000.0
+Analista QA,Junior,0,Medellín,Fijo,Presencial,Educación,Especialización,2840000.0
+Analista QA,Senior,9,Cali,Fijo,Presencial,Manufactura,Profesional,8160000.0
+Desarrollador Backend,Junior,0,Bucaramanga,Indefinido,Remoto,Finanzas,Maestría,3470000.0
+Desarrollador Frontend,Semi-Senior,4,Medellín,Prestación de servicios,Remoto,Tecnología,Maestría,11060000.0
+DevOps,Junior,1,Barranquilla,Indefinido,Presencial,Salud,Maestría,3560000.0
+Diseñador UI/UX,Líder,9,Barranquilla,Prestación de servicios,Presencial,Salud,Profesional,15480000.0
+Diseñador UI/UX,Semi-Senior,5,Medellín,Indefinido,Remoto,Manufactura,Maestría,9490000.0
+Desarrollador Backend,Líder,9,Medellín,Prestación de servicios,Remoto,Educación,Maestría,23590000.0
+Científico de Datos,Junior,2,Medellín,Prestación de servicios,Presencial,Educación,Profesional,2560000.0
+DevOps,Junior,0,Medellín,Indefinido,Híbrido,Educación,Especialización,3130000.0
+Gerente de TI,Semi-Senior,2,Bogotá,Prestación de servicios,Presencial,Tecnología,Técnico,4580000.0
+Arquitecto Cloud,Junior,1,Bucaramanga,Prestación de servicios,Híbrido,Tecnología,Especialización,3930000.0
+DevOps,Senior,5,Bogotá,Indefinido,Remoto,Finanzas,Maestría,20630000.0
+DevOps,Junior,0,Medellín,Fijo,Híbrido,Manufactura,Profesional,2790000.0
+Arquitecto Cloud,Semi-Senior,2,Bucaramanga,Fijo,Híbrido,Tecnología,Profesional,6170000.0
+Desarrollador Frontend,Líder,14,Barranquilla,Prestación de servicios,Híbrido,Retail,Maestría,23440000.0
+Desarrollador Backend,Senior,5,Bucaramanga,Fijo,Presencial,Salud,Profesional,8560000.0
+Desarrollador Frontend,Líder,13,Cali,Indefinido,Remoto,Finanzas,Maestría,30700000.0
+Científico de Datos,Junior,2,Medellín,Indefinido,Híbrido,Retail,Maestría,3650000.0
+Desarrollador Backend,Semi-Senior,4,Barranquilla,Prestación de servicios,Remoto,Retail,Profesional,3860000.0
+Desarrollador Backend,Senior,9,Cali,Prestación de servicios,Híbrido,Salud,Maestría,15440000.0
+Diseñador UI/UX,Senior,5,Medellín,Fijo,Híbrido,Salud,Profesional,12250000.0
+Gerente de TI,Líder,10,Bucaramanga,Prestación de servicios,Presencial,Finanzas,Especialización,19070000.0
+Analista QA,Líder,11,Cali,Indefinido,Híbrido,Manufactura,Profesional,16210000.0
+DevOps,Senior,5,Barranquilla,Prestación de servicios,Híbrido,Tecnología,Especialización,12360000.0
+DevOps,Junior,1,Barranquilla,Fijo,Híbrido,Retail,Especialización,2790000.0
+Diseñador UI/UX,Senior,9,Bogotá,Prestación de servicios,Remoto,Salud,Técnico,11130000.0
+DevOps,Junior,2,Bucaramanga,Indefinido,Remoto,Salud,Profesional,2710000.0
+Científico de Datos,Semi-Senior,4,Barranquilla,Indefinido,Presencial,Finanzas,Especialización,5920000.0
+Diseñador UI/UX,Semi-Senior,3,Cali,Fijo,Híbrido,Educación,Maestría,7320000.0
+Diseñador UI/UX,Semi-Senior,3,Bogotá,Indefinido,Presencial,Salud,Profesional,5510000.0
+Científico de Datos,Senior,5,Bogotá,Indefinido,Presencial,Manufactura,Especialización,10290000.0
+Desarrollador Backend,Senior,5,Barranquilla,Indefinido,Híbrido,Finanzas,Especialización,12850000.0
+Gerente de TI,Semi-Senior,2,Barranquilla,Indefinido,Presencial,Retail,Maestría,6130000.0
+Científico de Datos,Junior,2,Bucaramanga,Prestación de servicios,Remoto,Educación,Técnico,1840000.0
+Desarrollador Frontend,Junior,2,Bogotá,Prestación de servicios,Remoto,Finanzas,Especialización,5120000.0
+Arquitecto Cloud,Semi-Senior,4,Cali,Prestación de servicios,Presencial,Retail,Profesional,3580000.0
+Desarrollador Frontend,Junior,1,Cali,Prestación de servicios,Híbrido,Manufactura,Especialización,2360000.0
+Desarrollador Frontend,Junior,0,Medellín,Fijo,Presencial,Manufactura,Maestría,4170000.0
+Desarrollador Frontend,Líder,12,Bogotá,Prestación de servicios,Presencial,Tecnología,Maestría,41370000.0
+Desarrollador Backend,Senior,8,Bucaramanga,Indefinido,Remoto,Manufactura,Técnico,7890000.0
+Arquitecto Cloud,Semi-Senior,4,Bucaramanga,Prestación de servicios,Remoto,Retail,Profesional,4090000.0
+DevOps,Junior,2,Barranquilla,Fijo,Remoto,Educación,Profesional,2460000.0
+DevOps,Junior,1,Barranquilla,Prestación de servicios,Presencial,Manufactura,Profesional,3000000.0
+Analista QA,Senior,9,Bucaramanga,Indefinido,Presencial,Salud,Técnico,7920000.0
+Arquitecto Cloud,Líder,10,Bogotá,Fijo,Remoto,Educación,Especialización,27060000.0
+Gerente de TI,Líder,11,Barranquilla,Fijo,Presencial,Tecnología,Especialización,23860000.0
+Diseñador UI/UX,Junior,2,Barranquilla,Indefinido,Remoto,Retail,Maestría,4070000.0
+Gerente de TI,Senior,8,Barranquilla,Fijo,Remoto,Retail,Profesional,8510000.0
+Desarrollador Backend,Senior,5,Bogotá,Prestación de servicios,Híbrido,Manufactura,Profesional,10150000.0
+Arquitecto Cloud,Semi-Senior,2,Bucaramanga,Fijo,Híbrido,Retail,Maestría,5530000.0
+Arquitecto Cloud,Junior,0,Bogotá,Prestación de servicios,Híbrido,Retail,Maestría,3270000.0
+Analista QA,Líder,8,Bucaramanga,Indefinido,Híbrido,Tecnología,Profesional,15830000.0
+Gerente de TI,Junior,0,Bogotá,Fijo,Híbrido,Retail,Profesional,2940000.0
+DevOps,Junior,0,Bucaramanga,Indefinido,Remoto,Tecnología,Maestría,4690000.0
+Gerente de TI,Junior,2,Bucaramanga,Prestación de servicios,Híbrido,Retail,Especialización,2640000.0
+Analista QA,Senior,9,Bogotá,Prestación de servicios,Remoto,Educación,Técnico,7850000.0
+Analista QA,Semi-Senior,4,Barranquilla,Fijo,Remoto,Tecnología,Especialización,8930000.0
+DevOps,Senior,9,Bogotá,Prestación de servicios,Híbrido,Finanzas,Profesional,17410000.0
+Desarrollador Frontend,Semi-Senior,2,Cali,Prestación de servicios,Remoto,Tecnología,Maestría,10130000.0
+Científico de Datos,Senior,5,Medellín,Prestación de servicios,Remoto,Tecnología,Profesional,15570000.0
+Científico de Datos,Semi-Senior,3,Cali,Fijo,Remoto,Tecnología,Especialización,6470000.0
+Desarrollador Frontend,Senior,8,Cali,Indefinido,Híbrido,Educación,Profesional,9660000.0
+Desarrollador Frontend,Senior,7,Bogotá,Prestación de servicios,Remoto,Finanzas,Técnico,14070000.0
+Analista QA,Semi-Senior,2,Bogotá,Prestación de servicios,Remoto,Manufactura,Maestría,10240000.0
+Desarrollador Frontend,Senior,9,Bogotá,Indefinido,Híbrido,Finanzas,Profesional,14800000.0
+Desarrollador Frontend,Líder,9,Cali,Prestación de servicios,Presencial,Tecnología,Especialización,23830000.0
+Diseñador UI/UX,Senior,6,Barranquilla,Indefinido,Presencial,Salud,Técnico,7530000.0
+Diseñador UI/UX,Junior,0,Barranquilla,Prestación de servicios,Remoto,Finanzas,Maestría,5140000.0
+Desarrollador Backend,Junior,0,Bucaramanga,Fijo,Híbrido,Tecnología,Especialización,3120000.0
+Desarrollador Frontend,Junior,0,Medellín,Indefinido,Híbrido,Retail,Especialización,3060000.0
+Desarrollador Backend,Semi-Senior,3,Cali,Prestación de servicios,Híbrido,Retail,Profesional,4780000.0
+DevOps,Senior,9,Bucaramanga,Fijo,Híbrido,Educación,Profesional,8660000.0
+Desarrollador Frontend,Semi-Senior,5,Bogotá,Indefinido,Remoto,Educación,Especialización,6930000.0
+Gerente de TI,Semi-Senior,5,Bogotá,Indefinido,Híbrido,Salud,Técnico,5740000.0
+Científico de Datos,Junior,1,Bucaramanga,Prestación de servicios,Presencial,Retail,Especialización,2060000.0
+Científico de Datos,Semi-Senior,5,Bucaramanga,Prestación de servicios,Híbrido,Tecnología,Técnico,4050000.0
+Desarrollador Frontend,Senior,8,Cali,Indefinido,Presencial,Educación,Especialización,9660000.0
+Analista QA,Senior,6,Cali,Prestación de servicios,Remoto,Tecnología,Especialización,16650000.0
+Arquitecto Cloud,Líder,9,Cali,Indefinido,Presencial,Educación,Maestría,22140000.0
+Desarrollador Frontend,Junior,0,Bucaramanga,Fijo,Presencial,Retail,Técnico,1230000.0
+Gerente de TI,Líder,13,Bucaramanga,Fijo,Presencial,Salud,Técnico,14780000.0
+Arquitecto Cloud,Líder,11,Bogotá,Fijo,Híbrido,Salud,Profesional,21230000.0
+Diseñador UI/UX,Líder,11,Barranquilla,Fijo,Presencial,Finanzas,Maestría,24050000.0
+DevOps,Senior,5,Cali,Prestación de servicios,Remoto,Retail,Profesional,9690000.0
+Desarrollador Backend,Semi-Senior,5,Cali,Prestación de servicios,Presencial,Salud,Especialización,6980000.0
+Analista QA,Senior,5,Barranquilla,Indefinido,Remoto,Tecnología,Técnico,8670000.0
+Gerente de TI,Semi-Senior,4,Cali,Indefinido,Remoto,Manufactura,Técnico,4120000.0
+Gerente de TI,Senior,6,Bucaramanga,Fijo,Presencial,Retail,Profesional,9300000.0
+Analista QA,Líder,11,Medellín,Indefinido,Presencial,Manufactura,Técnico,15850000.0
+DevOps,Senior,7,Cali,Fijo,Híbrido,Tecnología,Maestría,20680000.0
+Arquitecto Cloud,Senior,9,Bucaramanga,Indefinido,Remoto,Tecnología,Maestría,19270000.0
+Desarrollador Backend,Semi-Senior,4,Bogotá,Fijo,Híbrido,Manufactura,Maestría,9850000.0
+DevOps,Líder,12,Bucaramanga,Fijo,Remoto,Educación,Especialización,13280000.0
+Desarrollador Backend,Semi-Senior,5,Medellín,Indefinido,Presencial,Finanzas,Profesional,6600000.0
+Científico de Datos,Semi-Senior,3,Bucaramanga,Prestación de servicios,Presencial,Salud,Profesional,3470000.0
+Gerente de TI,Senior,7,Bucaramanga,Prestación de servicios,Remoto,Tecnología,Técnico,9580000.0
+Analista QA,Senior,9,Cali,Indefinido,Remoto,Manufactura,Especialización,14290000.0
+Arquitecto Cloud,Senior,6,Medellín,Fijo,Híbrido,Manufactura,Profesional,11970000.0
+Diseñador UI/UX,Senior,8,Bucaramanga,Prestación de servicios,Presencial,Finanzas,Maestría,16430000.0
+Gerente de TI,Senior,6,Medellín,Fijo,Presencial,Retail,Técnico,7030000.0
+Gerente de TI,Junior,1,Bucaramanga,Fijo,Híbrido,Manufactura,Profesional,2530000.0
+Arquitecto Cloud,Senior,6,Bogotá,Fijo,Remoto,Salud,Técnico,10580000.0
+Arquitecto Cloud,Senior,6,Barranquilla,Fijo,Presencial,Retail,Técnico,6910000.0
+Desarrollador Backend,Junior,1,Barranquilla,Prestación de servicios,Remoto,Tecnología,Profesional,3240000.0
+Desarrollador Frontend,Senior,5,Medellín,Prestación de servicios,Presencial,Educación,Técnico,6680000.0
+Desarrollador Backend,Junior,0,Bogotá,Prestación de servicios,Remoto,Salud,Especialización,5180000.0
+Analista QA,Semi-Senior,2,Bucaramanga,Fijo,Presencial,Salud,Maestría,5930000.0
+Arquitecto Cloud,Senior,6,Cali,Indefinido,Presencial,Tecnología,Técnico,11190000.0
+Gerente de TI,Semi-Senior,5,Bogotá,Indefinido,Híbrido,Retail,Profesional,5590000.0
+Diseñador UI/UX,Semi-Senior,2,Barranquilla,Indefinido,Presencial,Educación,Técnico,2870000.0
+Gerente de TI,Líder,9,Cali,Fijo,Remoto,Salud,Maestría,25520000.0
+DevOps,Semi-Senior,2,Barranquilla,Indefinido,Presencial,Retail,Técnico,2630000.0
+Analista QA,Semi-Senior,3,Bucaramanga,Indefinido,Híbrido,Finanzas,Profesional,5220000.0
+Arquitecto Cloud,Líder,13,Medellín,Prestación de servicios,Remoto,Retail,Especialización,25550000.0
+Desarrollador Frontend,Líder,12,Cali,Indefinido,Híbrido,Salud,Profesional,17990000.0
+DevOps,Junior,2,Barranquilla,Prestación de servicios,Remoto,Salud,Profesional,2900000.0
+Científico de Datos,Senior,5,Medellín,Indefinido,Híbrido,Educación,Técnico,8500000.0
+Arquitecto Cloud,Senior,6,Barranquilla,Indefinido,Híbrido,Salud,Maestría,18200000.0
+Analista QA,Senior,8,Cali,Indefinido,Presencial,Tecnología,Especialización,17040000.0
+Arquitecto Cloud,Líder,12,Cali,Prestación de servicios,Remoto,Tecnología,Técnico,18960000.0
+Gerente de TI,Líder,14,Barranquilla,Fijo,Híbrido,Tecnología,Especialización,22160000.0
+Analista QA,Líder,11,Medellín,Prestación de servicios,Presencial,Salud,Profesional,16030000.0
+Desarrollador Frontend,Senior,6,Bogotá,Fijo,Remoto,Finanzas,Especialización,17050000.0
+Analista QA,Senior,7,Bucaramanga,Indefinido,Presencial,Salud,Especialización,9880000.0
+Desarrollador Frontend,Semi-Senior,5,Barranquilla,Indefinido,Presencial,Tecnología,Profesional,5150000.0
+Científico de Datos,Semi-Senior,2,Medellín,Indefinido,Remoto,Retail,Maestría,6110000.0
+Analista QA,Semi-Senior,2,Bucaramanga,Fijo,Híbrido,Manufactura,Profesional,4260000.0
+DevOps,Semi-Senior,3,Medellín,Fijo,Remoto,Manufactura,Especialización,7060000.0
+Desarrollador Frontend,Junior,2,Barranquilla,Indefinido,Remoto,Retail,Técnico,1730000.0
+Científico de Datos,Senior,8,Barranquilla,Fijo,Remoto,Salud,Especialización,9510000.0
+Desarrollador Backend,Semi-Senior,3,Bogotá,Prestación de servicios,Remoto,Tecnología,Profesional,7740000.0
+Desarrollador Backend,Senior,6,Medellín,Fijo,Presencial,Educación,Especialización,12900000.0
+Desarrollador Backend,Junior,1,Medellín,Prestación de servicios,Remoto,Finanzas,Maestría,4690000.0
+DevOps,Líder,11,Bogotá,Prestación de servicios,Presencial,Tecnología,Especialización,31440000.0
+Analista QA,Semi-Senior,5,Bucaramanga,Fijo,Presencial,Retail,Técnico,3740000.0
+Diseñador UI/UX,Semi-Senior,5,Medellín,Prestación de servicios,Presencial,Manufactura,Técnico,4380000.0
+Desarrollador Frontend,Junior,0,Medellín,Indefinido,Híbrido,Retail,Profesional,2040000.0
+Desarrollador Backend,Junior,0,Bucaramanga,Prestación de servicios,Remoto,Retail,Maestría,3020000.0
+Científico de Datos,Semi-Senior,2,Medellín,Indefinido,Remoto,Salud,Técnico,4480000.0
+Desarrollador Backend,Semi-Senior,5,Bogotá,Fijo,Remoto,Finanzas,Profesional,6550000.0
+Arquitecto Cloud,Junior,1,Bogotá,Indefinido,Híbrido,Finanzas,Maestría,5550000.0
+Analista QA,Junior,0,Barranquilla,Indefinido,Presencial,Retail,Técnico,2040000.0
+Desarrollador Backend,Junior,2,Medellín,Indefinido,Remoto,Manufactura,Maestría,4710000.0
+Gerente de TI,Semi-Senior,5,Medellín,Indefinido,Remoto,Tecnología,Maestría,12730000.0
+Desarrollador Frontend,Semi-Senior,2,Cali,Fijo,Presencial,Retail,Técnico,3310000.0
+Arquitecto Cloud,Senior,7,Bucaramanga,Fijo,Remoto,Finanzas,Maestría,12920000.0
+Gerente de TI,Junior,0,Bucaramanga,Fijo,Remoto,Tecnología,Técnico,2410000.0
+Arquitecto Cloud,Líder,13,Bucaramanga,Indefinido,Híbrido,Manufactura,Técnico,11420000.0
+Desarrollador Backend,Semi-Senior,4,Barranquilla,Fijo,Presencial,Salud,Especialización,5640000.0
+Arquitecto Cloud,Junior,0,Medellín,Fijo,Híbrido,Manufactura,Técnico,2520000.0
+DevOps,Junior,1,Cali,Prestación de servicios,Híbrido,Salud,Especialización,3640000.0
+Diseñador UI/UX,Líder,13,Bucaramanga,Fijo,Remoto,Tecnología,Maestría,30730000.0
+Científico de Datos,Líder,10,Medellín,Prestación de servicios,Híbrido,Tecnología,Técnico,17150000.0
+Desarrollador Backend,Líder,9,Bogotá,Indefinido,Presencial,Tecnología,Especialización,27320000.0
+Arquitecto Cloud,Senior,5,Cali,Indefinido,Remoto,Finanzas,Maestría,18500000.0
+Gerente de TI,Líder,14,Cali,Fijo,Remoto,Finanzas,Especialización,27730000.0
+Científico de Datos,Senior,5,Bucaramanga,Indefinido,Remoto,Manufactura,Profesional,9600000.0
+Desarrollador Frontend,Líder,12,Cali,Indefinido,Presencial,Tecnología,Maestría,28740000.0
+Diseñador UI/UX,Junior,0,Cali,Fijo,Presencial,Salud,Maestría,4580000.0
+Diseñador UI/UX,Líder,11,Medellín,Indefinido,Presencial,Retail,Maestría,25220000.0
+Arquitecto Cloud,Semi-Senior,3,Bucaramanga,Prestación de servicios,Presencial,Educación,Especialización,4240000.0
+DevOps,Junior,0,Bogotá,Prestación de servicios,Remoto,Tecnología,Técnico,3490000.0
+Analista QA,Líder,13,Cali,Prestación de servicios,Presencial,Retail,Profesional,16510000.0
+Arquitecto Cloud,Líder,14,Barranquilla,Prestación de servicios,Híbrido,Manufactura,Especialización,20200000.0
+DevOps,Líder,14,Cali,Fijo,Presencial,Retail,Especialización,20170000.0
+Científico de Datos,Líder,11,Bogotá,Indefinido,Híbrido,Educación,Especialización,21080000.0
+DevOps,Junior,0,Bogotá,Fijo,Remoto,Manufactura,Maestría,3960000.0
+Desarrollador Backend,Junior,1,Medellín,Indefinido,Presencial,Manufactura,Técnico,2310000.0
+Desarrollador Frontend,Semi-Senior,4,Cali,Fijo,Remoto,Salud,Técnico,4750000.0
+Diseñador UI/UX,Semi-Senior,4,Medellín,Indefinido,Remoto,Finanzas,Profesional,5990000.0
+DevOps,Semi-Senior,2,Barranquilla,Fijo,Remoto,Educación,Profesional,4200000.0
+Científico de Datos,Líder,8,Bogotá,Prestación de servicios,Remoto,Salud,Especialización,23300000.0
+Arquitecto Cloud,Senior,6,Barranquilla,Fijo,Híbrido,Manufactura,Profesional,8700000.0
+Desarrollador Backend,Senior,7,Bucaramanga,Prestación de servicios,Híbrido,Salud,Especialización,13930000.0
+Desarrollador Backend,Líder,10,Medellín,Fijo,Remoto,Finanzas,Profesional,21220000.0
+Desarrollador Backend,Semi-Senior,4,Cali,Fijo,Remoto,Tecnología,Maestría,8240000.0
+Desarrollador Frontend,Senior,8,Medellín,Indefinido,Remoto,Retail,Profesional,12180000.0
+Arquitecto Cloud,Semi-Senior,2,Cali,Fijo,Presencial,Educación,Especialización,5320000.0
+DevOps,Junior,0,Barranquilla,Indefinido,Remoto,Educación,Maestría,3710000.0
+Gerente de TI,Junior,0,Barranquilla,Prestación de servicios,Remoto,Finanzas,Maestría,4860000.0
+Diseñador UI/UX,Líder,13,Bogotá,Fijo,Híbrido,Retail,Profesional,23090000.0
